@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "8237289abd804595a492e8ab85650e58"
+  OwnerAccountId: "86861ac1866f49c3af1de1870f20c5e0"
+  OwnerName: "mangoboy"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 7926420508696781169
+}
+AssetIdsOriginalToNew {
+  key: 440168262593430639
+  value: 272093897990596319
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 11899820366986996436
+}
+AssetIdsOriginalToNew {
+  key: 2472577150731722024
+  value: 344835948721299759
+}
+AssetIdsOriginalToNew {
+  key: 4927912899720736741
+  value: 17629928802819230730
+}
+AssetIdsOriginalToNew {
+  key: 5874274953745372205
+  value: 6275178066654046221
+}
+AssetIdsOriginalToNew {
+  key: 6117910632843059206
+  value: 14406863965791211461
+}
+AssetIdsOriginalToNew {
+  key: 6652974207271369531
+  value: 15158789793027074514
+}
+AssetIdsOriginalToNew {
+  key: 6795206535065158887
+  value: 18413769944705697216
+}
+AssetIdsOriginalToNew {
+  key: 7611242078719564322
+  value: 18269631550810212849
+}
+AssetIdsOriginalToNew {
+  key: 8158565240501017426
+  value: 1839576043757162436
+}
+AssetIdsOriginalToNew {
+  key: 8163343952479535019
+  value: 18234584336569301586
+}
+AssetIdsOriginalToNew {
+  key: 8459825612529451237
+  value: 12302061320320970895
+}
+AssetIdsOriginalToNew {
+  key: 9654009968499969690
+  value: 4060358549267206532
+}
+AssetIdsOriginalToNew {
+  key: 10139659402558168400
+  value: 14935242801786293269
+}
+AssetIdsOriginalToNew {
+  key: 12210489528647249200
+  value: 14161600524878685539
+}
+AssetIdsOriginalToNew {
+  key: 12829320353947956080
+  value: 5701963908976614740
+}
+AssetIdsOriginalToNew {
+  key: 15515637826283224864
+  value: 2042643997557474376
+}
+AssetIdsOriginalToNew {
+  key: 16064653477604779480
+  value: 18430306242424978110
+}
+AssetIdsOriginalToNew {
+  key: 16975801195317677333
+  value: 5734354054515638723
+}
+AssetIdsOriginalToNew {
+  key: 17169051963161242240
+  value: 933980298199685832
+}
+AssetIdsOriginalToNew {
+  key: 17229066248892506112
+  value: 16897125797186424770
+}

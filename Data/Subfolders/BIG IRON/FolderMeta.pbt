@@ -1,0 +1,92 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "237e1b5ee82a45599499e697ae71bf7c"
+  OwnerAccountId: "45dba3036fc142a0b9855790ded24a70"
+  OwnerName: "Milkbeater"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 10995508861115392934
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 17374382301820437115
+}
+AssetIdsOriginalToNew {
+  key: 2472577150731722024
+  value: 5834470118659371479
+}
+AssetIdsOriginalToNew {
+  key: 6652974207271369531
+  value: 17703805833574076337
+}
+AssetIdsOriginalToNew {
+  key: 6795206535065158887
+  value: 11148733168639894821
+}
+AssetIdsOriginalToNew {
+  key: 7611242078719564322
+  value: 11067239910390943611
+}
+AssetIdsOriginalToNew {
+  key: 8163343952479535019
+  value: 1845443924319956884
+}
+AssetIdsOriginalToNew {
+  key: 9023864673320310867
+  value: 3376365286035930746
+}
+AssetIdsOriginalToNew {
+  key: 9281011578601836522
+  value: 10118237367993077551
+}
+AssetIdsOriginalToNew {
+  key: 9654009968499969690
+  value: 8009162317578377925
+}
+AssetIdsOriginalToNew {
+  key: 10139659402558168400
+  value: 3694610329443376050
+}
+AssetIdsOriginalToNew {
+  key: 12210489528647249200
+  value: 10402002590956926406
+}
+AssetIdsOriginalToNew {
+  key: 14253364123482785044
+  value: 5062467961520961220
+}
+AssetIdsOriginalToNew {
+  key: 15515637826283224864
+  value: 16564630569961621047
+}
+AssetIdsOriginalToNew {
+  key: 15728676179772725900
+  value: 10910117834630613384
+}
+AssetIdsOriginalToNew {
+  key: 16064653477604779480
+  value: 6786732148437852905
+}
+AssetIdsOriginalToNew {
+  key: 16105416073963552791
+  value: 1015151201364180980
+}
+AssetIdsOriginalToNew {
+  key: 16189811023698203938
+  value: 1268550122782455027
+}
+AssetIdsOriginalToNew {
+  key: 16313312156352177803
+  value: 17106816482287105821
+}
+AssetIdsOriginalToNew {
+  key: 16975801195317677333
+  value: 12751047055857623572
+}
+AssetIdsOriginalToNew {
+  key: 17169051963161242240
+  value: 2062990857812614147
+}
+HasDirtyManifestAssets: true

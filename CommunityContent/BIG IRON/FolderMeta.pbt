@@ -1,0 +1,91 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "237e1b5ee82a45599499e697ae71bf7c"
+  OwnerAccountId: "45dba3036fc142a0b9855790ded24a70"
+  OwnerName: "Milkbeater"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 2824517772969240039
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 3144993372846737728
+}
+AssetIdsOriginalToNew {
+  key: 2472577150731722024
+  value: 10671301038845777992
+}
+AssetIdsOriginalToNew {
+  key: 6652974207271369531
+  value: 16305949249857131576
+}
+AssetIdsOriginalToNew {
+  key: 6795206535065158887
+  value: 7821683087346707089
+}
+AssetIdsOriginalToNew {
+  key: 7611242078719564322
+  value: 604577780242395757
+}
+AssetIdsOriginalToNew {
+  key: 8163343952479535019
+  value: 7327756594506613395
+}
+AssetIdsOriginalToNew {
+  key: 9023864673320310867
+  value: 13993304341913431407
+}
+AssetIdsOriginalToNew {
+  key: 9281011578601836522
+  value: 9550150610522249065
+}
+AssetIdsOriginalToNew {
+  key: 9654009968499969690
+  value: 9077282075122675938
+}
+AssetIdsOriginalToNew {
+  key: 10139659402558168400
+  value: 4033887007536385291
+}
+AssetIdsOriginalToNew {
+  key: 12210489528647249200
+  value: 17929899412443923989
+}
+AssetIdsOriginalToNew {
+  key: 14253364123482785044
+  value: 7596569037946648048
+}
+AssetIdsOriginalToNew {
+  key: 15515637826283224864
+  value: 7865068952563718683
+}
+AssetIdsOriginalToNew {
+  key: 15728676179772725900
+  value: 10391292518756793596
+}
+AssetIdsOriginalToNew {
+  key: 16064653477604779480
+  value: 6877660615970704457
+}
+AssetIdsOriginalToNew {
+  key: 16105416073963552791
+  value: 11446534909241275293
+}
+AssetIdsOriginalToNew {
+  key: 16189811023698203938
+  value: 4140391014772552164
+}
+AssetIdsOriginalToNew {
+  key: 16313312156352177803
+  value: 17055912836048140635
+}
+AssetIdsOriginalToNew {
+  key: 16975801195317677333
+  value: 5850584557317419006
+}
+AssetIdsOriginalToNew {
+  key: 17169051963161242240
+  value: 15034735876915440002
+}
